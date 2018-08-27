@@ -1,6 +1,6 @@
 # Tensorflow-gpu on Ubuntu 18.04
 <img src='images/tf.jpeg'/>
-I wrote this post to simplify the  installation process of gpu version of TensorFlow on Ubuntu 18.04. I have described few installation steps here and hope that it will be helpful.
+I wrote this post to simplify the  installation process of gpu version of TensorFlow on Ubuntu 18.04. I have described installation steps below and hope that it will be helpful.
 
 ## NVIDIA driver
 Check the nvidia driver is installed by running the command 'nvidia-smi'. Normally, the command will be installed as part of the driver and expected to get the result below.
